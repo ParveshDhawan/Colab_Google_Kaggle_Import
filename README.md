@@ -16,4 +16,6 @@ Then run the below line to download it into the sample_data Colab folder:
 !kaggle datasets download *url_suffix* -p /content/sample_data/ --unzip
 
 Data set Sample : https://www.kaggle.com/snap/amazon-fine-food-reviews
+
+--
 !kaggle datasets download snap/amazon-fine-food-reviews -p /content/sample_data/ --unzip
